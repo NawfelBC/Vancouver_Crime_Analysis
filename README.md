@@ -18,7 +18,7 @@ I used a dataset from the [Vancouver Open Data Catalogue](https://opendata.vanco
 
 To analyze the data, I used Python libraries such as Pandas, Matplotlib, Numpy and Seaborn to try to answer the initial question.
 
-Code : [Notebook](https://github.com/NawfelBC/Portfolio/blob/main/Data%20Analysis/Vancouver%20Crimes%20Analysis/Vancouver_Crimes_Analysis.ipynb)
+Code : [Notebook](https://github.com/NawfelBC/Vancouver_Crime_Analysis/blob/main/Vancouver_Crimes_Analysis.ipynb)
 
 ## Summarize the results
 
